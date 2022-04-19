@@ -2,10 +2,9 @@
 Console.WriteLine("введите число");
 int n = Convert.ToInt32(Console.ReadLine());
 if (n<0) n=-n;
-else n=n;
 if (n > 99)
 {
-    while(n>1000)
+    while(n>=1000)
     {
         n = n/10;
     }
