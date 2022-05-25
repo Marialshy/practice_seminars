@@ -1,0 +1,15 @@
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\obj\Debug\net6.0\seminar4_hw25.csproj.AssemblyReference.cache
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\obj\Debug\net6.0\seminar4_hw25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\obj\Debug\net6.0\seminar4_hw25.AssemblyInfoInputs.cache
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\obj\Debug\net6.0\seminar4_hw25.AssemblyInfo.cs
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\obj\Debug\net6.0\seminar4_hw25.csproj.CoreCompileInputs.cache
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\bin\Debug\net6.0\seminar4_hw25.exe
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\bin\Debug\net6.0\seminar4_hw25.deps.json
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\bin\Debug\net6.0\seminar4_hw25.runtimeconfig.json
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\bin\Debug\net6.0\seminar4_hw25.dll
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\bin\Debug\net6.0\seminar4_hw25.pdb
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\obj\Debug\net6.0\seminar4_hw25.dll
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\obj\Debug\net6.0\refint\seminar4_hw25.dll
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\obj\Debug\net6.0\seminar4_hw25.pdb
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\obj\Debug\net6.0\seminar4_hw25.genruntimeconfig.cache
+C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar4_hw25\obj\Debug\net6.0\ref\seminar4_hw25.dll
