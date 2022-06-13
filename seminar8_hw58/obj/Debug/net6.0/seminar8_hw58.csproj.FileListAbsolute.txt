@@ -13,3 +13,18 @@ C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.
 C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\seminar8_hw58.pdb
 C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\seminar8_hw58.genruntimeconfig.cache
 C:\Users\z004297k\Desktop\all docs\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\ref\seminar8_hw58.dll
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\bin\Debug\net6.0\seminar8_hw58.exe
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\bin\Debug\net6.0\seminar8_hw58.deps.json
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\bin\Debug\net6.0\seminar8_hw58.runtimeconfig.json
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\bin\Debug\net6.0\seminar8_hw58.dll
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\bin\Debug\net6.0\seminar8_hw58.pdb
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\seminar8_hw58.csproj.AssemblyReference.cache
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\seminar8_hw58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\seminar8_hw58.AssemblyInfoInputs.cache
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\seminar8_hw58.AssemblyInfo.cs
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\seminar8_hw58.csproj.CoreCompileInputs.cache
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\seminar8_hw58.dll
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\refint\seminar8_hw58.dll
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\seminar8_hw58.pdb
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\seminar8_hw58.genruntimeconfig.cache
+C:\Users\marialshy\EDU\practice_C#\seminar8_hw58\obj\Debug\net6.0\ref\seminar8_hw58.dll

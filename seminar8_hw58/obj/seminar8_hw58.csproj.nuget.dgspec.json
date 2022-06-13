@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\z004297k\\Desktop\\all docs\\EDU\\practice_C#\\seminar8_hw58\\seminar8_hw58.csproj": {}
+    "C:\\Users\\marialshy\\EDU\\practice_C#\\seminar8_hw58\\seminar8_hw58.csproj": {}
   },
   "projects": {
-    "C:\\Users\\z004297k\\Desktop\\all docs\\EDU\\practice_C#\\seminar8_hw58\\seminar8_hw58.csproj": {
+    "C:\\Users\\marialshy\\EDU\\practice_C#\\seminar8_hw58\\seminar8_hw58.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\z004297k\\Desktop\\all docs\\EDU\\practice_C#\\seminar8_hw58\\seminar8_hw58.csproj",
+        "projectUniqueName": "C:\\Users\\marialshy\\EDU\\practice_C#\\seminar8_hw58\\seminar8_hw58.csproj",
         "projectName": "seminar8_hw58",
-        "projectPath": "C:\\Users\\z004297k\\Desktop\\all docs\\EDU\\practice_C#\\seminar8_hw58\\seminar8_hw58.csproj",
-        "packagesPath": "C:\\Users\\z004297k\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\z004297k\\Desktop\\all docs\\EDU\\practice_C#\\seminar8_hw58\\obj\\",
+        "projectPath": "C:\\Users\\marialshy\\EDU\\practice_C#\\seminar8_hw58\\seminar8_hw58.csproj",
+        "packagesPath": "C:\\Users\\marialshy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marialshy\\EDU\\practice_C#\\seminar8_hw58\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\z004297k\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\marialshy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
