@@ -1,0 +1,15 @@
+C:\Users\marialshy\EDU\practice_C#\test_hw\bin\Debug\net6.0\test_hw.exe
+C:\Users\marialshy\EDU\practice_C#\test_hw\bin\Debug\net6.0\test_hw.deps.json
+C:\Users\marialshy\EDU\practice_C#\test_hw\bin\Debug\net6.0\test_hw.runtimeconfig.json
+C:\Users\marialshy\EDU\practice_C#\test_hw\bin\Debug\net6.0\test_hw.dll
+C:\Users\marialshy\EDU\practice_C#\test_hw\bin\Debug\net6.0\test_hw.pdb
+C:\Users\marialshy\EDU\practice_C#\test_hw\obj\Debug\net6.0\test_hw.csproj.AssemblyReference.cache
+C:\Users\marialshy\EDU\practice_C#\test_hw\obj\Debug\net6.0\test_hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marialshy\EDU\practice_C#\test_hw\obj\Debug\net6.0\test_hw.AssemblyInfoInputs.cache
+C:\Users\marialshy\EDU\practice_C#\test_hw\obj\Debug\net6.0\test_hw.AssemblyInfo.cs
+C:\Users\marialshy\EDU\practice_C#\test_hw\obj\Debug\net6.0\test_hw.csproj.CoreCompileInputs.cache
+C:\Users\marialshy\EDU\practice_C#\test_hw\obj\Debug\net6.0\test_hw.dll
+C:\Users\marialshy\EDU\practice_C#\test_hw\obj\Debug\net6.0\refint\test_hw.dll
+C:\Users\marialshy\EDU\practice_C#\test_hw\obj\Debug\net6.0\test_hw.pdb
+C:\Users\marialshy\EDU\practice_C#\test_hw\obj\Debug\net6.0\test_hw.genruntimeconfig.cache
+C:\Users\marialshy\EDU\practice_C#\test_hw\obj\Debug\net6.0\ref\test_hw.dll
